@@ -6,6 +6,6 @@
 </head>
 <body>
 <h1>Prestamo de portatiles</h1>
-<p>Equipo 01: disponible. </p>
+<p>Equipo 01: reservado para mantenimiento.</p>
 </body>
 </html>
